@@ -1,4 +1,4 @@
-# 사회초년생을 위한 전세 계약 안심 서비스
+# Ideation
 
 ## Key Words
 1. 법률 문서 OCR & NLP 분석  
