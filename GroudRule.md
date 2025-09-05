@@ -9,9 +9,9 @@
 - main 브랜치 → 안정된 버전만 머지
 - 각자 기능 개발은 기능별 브랜치에서 작업 후 PR
 - PR 생성 후 각 분야별 팀원 전체 수락 후 merge
-	- frontend: 윤아, 지희
-	- backend: 윤아, 유진, 지희
-	- ai: 유진
+	- frontend: 정윤아, 복지희
+	- backend: 정윤아, 정유진, 복지희
+	- ai: 정유진
 	
 ## Commit Convention
 * {Tag}: 작업 내용 #이슈번호
