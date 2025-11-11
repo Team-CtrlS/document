@@ -30,7 +30,7 @@
 
 
 ## 📌 기술 스택  
-- **Frontend**: React Native  
+- **Frontend**: Swift
 - **Backend**: Spring Boot, FastAPI  
 - **AI / ML**: STT, TTS, OpenAI GPT, KoNLPy, Stable Diffusion(삽화 생성), Adaptive Learning Engine(난이도 조절 알고리즘)  
 - **Database**: MySQL, Redis
